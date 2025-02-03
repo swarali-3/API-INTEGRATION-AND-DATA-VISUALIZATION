@@ -1,1 +1,15 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
+
+**COMPANY** : CODETECH IT SOLUTIONS
+
+**NAME** :Swrali Deshmukh
+
+**INTERN ID** : CT08LAO
+
+**DOMAIN** : Python Programming
+
+**BATCH DURATION** : 10th January 2025 to 10th February 2025
+
+**MENTOR NAME** : Neela Santosh
+
+**DSCRIPTION OF TASK PERFORMED** :
